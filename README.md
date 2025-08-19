@@ -53,6 +53,5 @@ Após análise multidimensional, recomendamos a **venda da Loja 4** devido a:
 ## 📧 Contato
 **Responsável:** Alisson Matheus  
 **Email:** alisson.ssilva@ufpe.br  
-**LinkedIn:** [seu-linkedin]  
 
 > ℹ️ Projeto desenvolvido para fins educacionais no Alura Challenge - Dados #3

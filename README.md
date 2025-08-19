@@ -1,4 +1,4 @@
-# 📊 Análise de Desempenho de Lojas - Alura Challenge
+# 📊 Análise de Desempenho de Lojas - Alura Challenge ONE
 
 ## 🔍 Visão Geral
 Este projeto realiza uma análise estratégica de quatro lojas para identificar qual possui o menor desempenho e deve ser considerada para venda. Utilizamos dados reais de operação para uma tomada de decisão baseada em evidências.
@@ -54,4 +54,4 @@ Após análise multidimensional, recomendamos a **venda da Loja 4** devido a:
 **Responsável:** Alisson Matheus  
 **Email:** alisson.ssilva@ufpe.br  
 
-> ℹ️ Projeto desenvolvido para fins educacionais no Alura Challenge - Dados #3
+> ℹ️ Projeto desenvolvido para fins educacionais no Alura ONE 
